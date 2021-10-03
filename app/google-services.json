@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906329374029",
+    "project_id": "argumentedreality-1745e",
+    "storage_bucket": "argumentedreality-1745e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906329374029:android:6b82e575383f3354b08b04",
+        "android_client_info": {
+          "package_name": "com.example.agumentedreality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906329374029-bifpfgd5du9mdgr71dvoeenll03n4f3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjSpFtyK0TJcspe6rjhMfw97CQWxZitxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906329374029-bifpfgd5du9mdgr71dvoeenll03n4f3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
